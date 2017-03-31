@@ -6,7 +6,7 @@ Link to the challenge: https://cmdchallenge.com/
 
 ## Challenges and Solutions
 
-### Question 1 - Print "hello world"
+### Question 1 - Print "hello world".
 
 Command: [echo](http://linuxcommand.org/lc3_man_pages/echoh.html) 
 
@@ -16,7 +16,7 @@ Description: Echo the STRING(s) to standard output.
 echo "hello world" 
 ```
 
-### Question 2 - Print the current working directory
+### Question 2 - Print the current working directory.
 
 Command: [pwd](https://linux.die.net/man/1/pwd)
 
@@ -26,7 +26,7 @@ Description: Print the full filename of the current working directory.
 pwd
 ```
 
-### Question 3 - List names of all the files in the current directory
+### Question 3 - List names of all the files in the current directory.
 
 Command: [ls](https://linux.die.net/man/1/ls)
 
@@ -65,4 +65,10 @@ Description: grep searches the named input FILEs (or standard input if no files 
 ```
 grep "GET" access.log
 ```
+
+### Question 7 - Print all files in the current directory,one per line (not the path, just the filename) that contain the string "500".
+
+Command:
+
+Description:
 
