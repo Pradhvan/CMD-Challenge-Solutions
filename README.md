@@ -68,7 +68,11 @@ grep "GET" access.log
 
 ### Question 7 - Print all files in the current directory,one per line (not the path, just the filename) that contain the string "500".
 
-Command:
+Command: 
 
 Description:
 
+```
+grep -l 500 *
+
+```
